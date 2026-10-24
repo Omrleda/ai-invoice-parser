@@ -1,13 +1,9 @@
-streamlit>=1.40
-requests>=2.32
-pillow>=10.0
 
-fastapi
-uvicorn[standard]
-python-multipart
-pillow
+streamlit>=1.40
+pillow>=10.0
 torch
 torchvision
 transformers
 ultralytics
 huggingface_hub
+safetensors
