@@ -1,9 +1,10 @@
 
 streamlit>=1.40
 pillow>=10.0
+requests>=2.32
 torch
 torchvision
 transformers
-ultralytics
+ultralytics-opencv-headless
 huggingface_hub
 safetensors
